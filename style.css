@@ -1,3 +1,12 @@
-h1 {
-    color: green;
+body {
+    margin: 0;
+}
+footer {
+    background-color: grey;
+    text-align: center;
+    padding: 14px 0px;
+}
+
+footer p {
+    margin: 0;
 }
